@@ -14,6 +14,13 @@ Click a preview to view the full-size original.
 | Merge | [<img src="images/seals/small/merge-seal.png" alt="I merged a PR today seal" width="200">](images/seals/merge-seal.png) |
 | Graduation | [<img src="images/seals/small/graduation-seal.png" alt="Thank you, I learned something today seal" width="200">](images/seals/graduation-seal.png) |
 | Scout patch | [<img src="images/seals/small/scout-patch-seal.png" alt="Scout patch seal" width="200">](images/seals/scout-patch-seal.png) |
+| Nicely done! | [<img src="images/seals/small/nicely-done-seal.png" alt="Holographic seal saying Nicely done!" width="200">](images/seals/nicely-done-seal.png) |
+| Wax seal | [<img src="images/seals/small/wax-seal.png" alt="Burgundy wax seal saying Approved" width="200">](images/seals/wax-seal.png) |
+| Gold coin | [<img src="images/seals/small/gold-coin-seal.png" alt="Gold-foil chocolate coin seal saying Solid gold!" width="200">](images/seals/gold-coin-seal.png) |
+| Victorian postage stamp | [<img src="images/seals/small/postage-stamp-seal.png" alt="Victorian engraved seal portrait saying First Class and Ship it!" width="200">](images/seals/postage-stamp-seal.png) |
+| Ceramic tile | [<img src="images/seals/small/ceramic-tile-seal.png" alt="Cobalt-blue ceramic seal tile saying Beautifully crafted" width="200">](images/seals/ceramic-tile-seal.png) |
+| Arcade token | [<img src="images/seals/small/arcade-token-seal.png" alt="Pixel-art arcade seal token saying Flawless!" width="200">](images/seals/arcade-token-seal.png) |
+| Hacker badge | [<img src="images/seals/small/hacker-badge-seal.png" alt="Retro computer case badge with a seal in sunglasses saying l33t h4x0r" width="200">](images/seals/hacker-badge-seal.png) |
 
 ### Using a seal
 
@@ -23,4 +30,4 @@ Use this in a GitHub comment or saved reply:
 <img src="https://raw.githubusercontent.com/BarneyPowell/public-assets/main/images/seals/small/seal-of-approval.png" alt="Seal of approval" width="200">
 ```
 
-Swap the filename for `graduation-seal.png`, `merge-seal.png`, `scout-patch-seal.png`, or `ship-it-seal.png` to use another seal.
+Swap `seal-of-approval.png` for any filename in the gallery above, such as `nicely-done-seal.png`, `postage-stamp-seal.png`, or `hacker-badge-seal.png`. Keep `/small/` in the URL for the comment-sized version.
