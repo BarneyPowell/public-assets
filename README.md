@@ -21,6 +21,10 @@ Click a preview to view the full-size original.
 | Ceramic tile | [<img src="images/seals/small/ceramic-tile-seal.png" alt="Cobalt-blue ceramic seal tile saying Beautifully crafted" width="200">](images/seals/ceramic-tile-seal.png) |
 | Arcade token | [<img src="images/seals/small/arcade-token-seal.png" alt="Pixel-art arcade seal token saying Flawless!" width="200">](images/seals/arcade-token-seal.png) |
 | Hacker badge | [<img src="images/seals/small/hacker-badge-seal.png" alt="Retro computer case badge with a seal in sunglasses saying l33t h4x0r" width="200">](images/seals/hacker-badge-seal.png) |
+| Mission Control | [<img src="images/seals/small/mission-control-seal.png" alt="Embroidered astronaut seal patch saying Ready for launch" width="200">](images/seals/mission-control-seal.png) |
+| Chef’s Kiss | [<img src="images/seals/small/chefs-kiss-seal.png" alt="Gold-edged enamel chef seal pin saying Chef’s kiss" width="200">](images/seals/chefs-kiss-seal.png) |
+| Rubber Duck Debugging | [<img src="images/seals/small/rubber-duck-debugging-seal.png" alt="Rubber seal and yellow duck saying Quacking good fix" width="200">](images/seals/rubber-duck-debugging-seal.png) |
+| Magician | [<img src="images/seals/small/magician-seal.png" alt="Magician seal saying Abracadabra... and And it’s gone!" width="200">](images/seals/magician-seal.png) |
 
 ### Using a seal
 
